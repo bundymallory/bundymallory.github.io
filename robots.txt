@@ -1,1 +1,1 @@
-Sitemap: https://bundymallory.github.io/mbundy_resume/sitemap.xml
+Sitemap: https://bundymallory.github.io/sitemap.xml
